@@ -1,6 +1,6 @@
 {
-  "short_name": "sample",
-  "name": "Sample",
+  "short_name": "GOMOJI",
+  "name": "GOMOJI",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
